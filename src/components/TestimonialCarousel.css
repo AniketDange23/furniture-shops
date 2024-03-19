@@ -1,0 +1,78 @@
+/* TestimonialCarousel.css */
+
+/* Testimonials title */
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font: 600 2.5rem "Inter", sans-serif;
+    
+  }
+  
+  /* Testimonial carousel container */
+  .testimonial-carousel {
+    display: flex;
+    position: relative;
+    margin: 3rem auto;
+    width: 90%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Testimonial */
+  .testimonial {
+    margin-bottom: 20px;
+  }
+  
+  /* Avatar */
+  .avatar {
+ width: 50px;
+ height: 50px;
+ box-shadow:  1px 2px 5px #252020;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  /* Description */
+  .description {
+    text-align: center;
+    justify-content: center;
+    font: 500 1rem "Inter",sans-serif;
+    color: rgb(123, 123, 123);
+padding: 2% 15%;
+  }
+  
+  /* Position */
+  .position {
+font: 400 1rem  "Inter", sans-serif; 
+color: rgb(93, 93, 93);
+ }
+  .username{
+     font: 600 1rem  "Inter", sans-serif; 
+     color: rgb(50, 50, 50);
+  }
+  /* Previous and Next buttons */
+  .prev,
+  .next {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgb(208, 208, 208);
+    color: rgb(18, 18, 18);
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .prev {
+    left: 0;
+  }
+  
+  .next {
+    right: 0;
+  }
+  

@@ -1,0 +1,69 @@
+.hero-container {
+  display: flex;
+  height: 600px;
+  flex-direction: column;
+  text-align: justify;
+  margin-right: 3rem;
+  justify-content: space-between;
+  background: #3b5d50;
+  color: #ffffff;
+  padding: 0;
+}
+.hero-content {
+  display: flex;
+ 
+  margin: auto 6rem;
+}
+
+.hero-text h1 {
+  text-align: start;
+  width: 500px;
+  font: 600 3.2rem "Inter", sans-serif;
+}
+.hero-text p {
+  font: 1rem "Inter", sans-serif;
+}
+.btn {
+  display: flex;
+  margin-top: 3rem;
+  gap: 10px;
+ 
+}
+.shop-now-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    color: rgb(29, 29, 29);
+  background: #f9bf29;
+width: 140px;
+font: 600 16px "Inter", sans-serif;
+
+height: 50px;
+  border: none;
+  border-radius: 30px;
+}
+.explore-btn {
+  font: 600 16px "Inter", sans-serif;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  width: 140px;
+  height: 50px;
+    border-radius: 30px;
+}
+.hero-image1 {
+  position: absolute;
+  z-index: 1;
+  top: 7rem;
+  right: 3rem;
+  background: transparent;
+}
+.hero-image {
+  position: absolute;
+  z-index: 2;
+  left: 47%;
+  top: 99px;
+}
