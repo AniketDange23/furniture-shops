@@ -3,7 +3,8 @@
     <h1 align="center">FURNITURE-SHOPS</h1>
 </p>
 <p align="center">
-    <a href="https://furniture-shops.netlify.app/" ></a>
+    <a href="https://furniture-shops.netlify.app/" > website link
+    </a>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/AniketDange23/furniture-shops?style=flat&color=0080ff" alt="license">
