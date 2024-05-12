@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="chrome-extension://ggacghlcchiiejclfdajbpkbjfgjhfol/editor.html#/" width="600" />
-</p>
+
 <p align="center">
     <h1 align="center">FURNITURE-SHOPS</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <a href="https://furniture-shops.netlify.app/" ></a>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/AniketDange23/furniture-shops?style=flat&color=0080ff" alt="license">
